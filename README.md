@@ -29,3 +29,4 @@ URL
 開発環境:http://localhost:81/
 *自分はnginxのポート番号を81:80にしているのでlocalhostの後に:81をつけてください
 phpmyadmin:http://localhost:8081
+同党の理由です
